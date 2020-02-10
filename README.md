@@ -1,5 +1,5 @@
 # Sentiment-Analysis-WI-Fall-19
-
+This repository contains community detection and sentiment analysis created in the sentiment analysis part of the web intelligence (Software, MSc.) course at AAU.
 
 <h2>Community Dectection</h2>
 
